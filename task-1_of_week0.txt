@@ -1,3 +1,1 @@
-Week 0
-
-i have installed git
+I'm Melikamu. I have cloned the repo shared by the team and made some commit changes, in addition, I have practiced some git commands so that I will be familiarized with git commands.  Of course, I have submitted the task-1 challenge of week0.
