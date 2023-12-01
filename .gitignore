@@ -2,6 +2,9 @@
 # KEDRO PROJECT
 # /anonymized_new.zip
 # ignore all local configuration
+
+frontend/package-lock.json
+streamlit/channel_cleaned.csv
 conf/local/**
 !conf/local/.gitkeep
 .telemetry
